@@ -1,0 +1,31 @@
+[{
+	"name": "Yoshi",
+	"belt": "green",
+	"rate": 500,
+	"available": true,
+	"thumb": "https://aff5fa4925746bf9c161-fb36f18ca122a30f6899af8eef8fa39b.ssl.cf5.rackcdn.com/images/Masthead_yoshi.17345b1513ac044897cfc243542899dce541e8dc.9afde10b.png"
+}, {
+	"name": "Crystal",
+	"belt": "yellow",
+	"rate": 300,
+	"available": true,
+	"thumb": "https://ih1.redbubble.net/image.913941639.2463/raf%2C210x230%2C075%2Cf%2Cheather_grey.u5.jpg"
+}, {
+	"name": "Ryu",
+	"belt": "orange",
+	"rate": 100,
+	"available": true,
+	"thumb": "https://vignette.wikia.nocookie.net/streetfighter/images/4/46/Ryurender.png/revision/latest?cb=20170728171704"
+}, {
+	"name": "Shaun",
+	"belt": "black",
+	"rate": 1000,
+	"available": true,
+	"thumb": "https://www.thenetninja.co.uk/img/sponsor_ninja.7c3f1b29.png"
+}, {
+	"name": "Code",
+	"belt": "black",
+	"rate": 950,
+	"available": true,
+	"thumb": "https://lh3.googleusercontent.com/a-/AAuE7mCfwgZcpUa5jS3F-5bQOIKK4xnSJAQe-fafM2dp=s188-p-rw-no"
+}]
